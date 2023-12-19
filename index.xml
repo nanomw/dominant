@@ -2,10 +2,10 @@
 <level>
   <owner>nanomw</owner>
   <repo>dominant</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="wolskp" repo="master-and-servant-octaves"/>
   <readme>
-    <ru>366e37c0322559ef4b53a25b55fa00a9ca90b9f9defb79277951d68079e6de3e</ru>
+    <ru>cf634e0d266f3914e288cf299893dfd3ca8ff3dd598f41fd7ce579d621d2fb8e</ru>
     <en>28827e51b5d7c8c9b94206b8eb2c27b00459f93f6c0e9ab8eb8db44eba52a382</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
